@@ -36,9 +36,9 @@ Players will be onboarded through a screen that gets them into a deep breathing 
 Since controls are so simple, player learning will be during the first few moments of the game, most likely. That said, if learning continues throughout the game later on, there is no negative repercussions to this. Players cannot die, they simply stop walking, and there is no intentionally negative stimuli, only the presence or absence of positive stimuli.
 
 ## VI. Screenshots
-![Breathing][]
+![Breathing][IGME230/0210181425e.jpg]
 
-![Gameplay][]
+![Gameplay][IGME230/0210181425a.jpg]
 
 ## VII. Other
 
