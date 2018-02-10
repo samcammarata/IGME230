@@ -30,12 +30,15 @@ The player will be able to control their character via the four arrow keys or WA
 of their movement.
 
 ### c. Onboarding
-
+Players will be onboarded through a screen that gets them into a deep breathing and relaxed state, then through a brief screen that displays controls and does not fade out until they use them.
 
 ### d. Player Learning
-
+Since controls are so simple, player learning will be during the first few moments of the game, most likely. That said, if learning continues throughout the game later on, there is no negative repercussions to this. Players cannot die, they simply stop walking, and there is no intentionally negative stimuli, only the presence or absence of positive stimuli.
 
 ## VI. Screenshots
+![Breathing][]
+
+![Gameplay][]
 
 ## VII. Other
 
