@@ -41,5 +41,7 @@ Since controls are so simple, player learning will be during the first few momen
 ![Gameplay](https://github.com/samcammarata/IGME230/blob/master/0210181425a.jpg?raw=true)
 
 ## VII. Other
+Heavily inspired by the talk given by Robin Arnott, creator of Soundself. The tal is up on the GDC Vault, [here](https://www.gdcvault.com/play/1024156/Designing-a-Trance-Meditation-and).
 
 ## VIII. About the Author
+Sam Cammarata is an independent games developer and game design student, currently working as producer for [Aesthetician Labs](http://aesthetic.games/).
